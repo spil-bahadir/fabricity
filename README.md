@@ -1,0 +1,4 @@
+fabricity
+=========
+
+example fabric configurations
